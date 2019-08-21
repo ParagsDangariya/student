@@ -1,0 +1,1 @@
+{"id":12346,"fname":"Parag","Lname":"Dangariya","Active":true,"gpa":3.4,"address":{"number":1001,"Street":"Sherbrooke","Zipcode":"H3JDE2"},"phones":["5144622535","5144656565","5144655535"],"result":[{"title":"DATABASE","mark":3.4},{"title":"Debugging","mark":3.4},{"title":"java","mark":3.4}]}
